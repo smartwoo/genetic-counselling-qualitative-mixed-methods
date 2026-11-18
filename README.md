@@ -1,12 +1,12 @@
-# Qualitative & Mixed Methods in Genetic Counselling
+# การวิจัยเชิงคุณภาพและแบบผสานวิธีในการให้คำปรึกษาทางพันธุศาสตร์
 
-Research methods for understanding experiences, meanings and processes in genetic counselling, and integrating qualitative and quantitative findings. Key reference: Creswell & Creswell (2018), Research Design, 5th edition. Methodological and empirical articles are linked alongside relevant material.
+เรียนรู้วิธีศึกษาประสบการณ์ ความหมาย และกระบวนการในการให้คำปรึกษาทางพันธุศาสตร์ พร้อมการผสานข้อค้นพบเชิงคุณภาพกับเชิงปริมาณ อ้างอิงหลัก Creswell & Creswell (2018), Research Design, 5th edition และบทความวิธีวิทยากับงานวิจัยตัวอย่าง
 
-- Main lesson with optional appendix and references.
-- Interview roleplay, coding, interpretation exercises, research design and peer review.
-- Reading companion, workbook and instructor notes.
-- Classroom dialogue, scenarios and example numbers are fictional. Published studies retain their stated design and limitations.
+- บทเรียนหลัก ภาคผนวก และเอกสารอ้างอิง
+- บทบาทสมมติสัมภาษณ์ การให้รหัส การตีความ การออกแบบงานวิจัย และข้อเสนอแนะจากเพื่อน
+- เอกสารอ่านต่อ แบบฝึก และคู่มือผู้สอน
+- บทสนทนา สถานการณ์ และตัวเลขในกิจกรรมเป็นสมมติ งานวิจัยที่ตีพิมพ์ระบุแบบวิจัยและข้อจำกัดแยกชัดเจน
 
-Open index.html. Arrows/Page Up/Page Down support clickers. F fullscreen; S sorter; O outline; G jump; P presenter; A answer; T timer; ? help. For offline use, keep the whole folder together so the reading, workbook and guide links remain available.
+เปิด `index.html` ใช้ปุ่มลูกศรหรือ Page Up / Page Down เพื่อเปลี่ยนสไลด์ กด F แสดงเต็มจอ, S เปิดภาพรวมสไลด์, O เปิดโครงสไลด์, G ข้ามเลข, P เปิดหน้าผู้บรรยาย, A เปิดแนวคำตอบ, T ใช้เวลา และ ? เปิดวิธีใช้ หากใช้แบบออฟไลน์ ให้เก็บไฟล์ทั้งหมดไว้ในโฟลเดอร์เดียวกันเพื่อเปิดเอกสารประกอบจากลิงก์ได้
 
-See teaching-guide.html for the lesson schedule, facilitation notes and textbook page references. Read original publications before applying findings or adapting a measure to a new setting.
+เปิด `teaching-guide.html` เพื่อดูกำหนดการ แนวทางจัดกิจกรรม และตำแหน่งอ่านในตำรา อ่านบทความต้นฉบับก่อนนำข้อค้นพบหรือมาตรวัดไปใช้ในบริบทใหม่
