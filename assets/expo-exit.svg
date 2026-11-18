@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="600" viewBox="0 0 1500 600" role="img" aria-labelledby="title desc">
+<title id="title">สัมภาษณ์ผู้ชมที่ทางออกงานพืชสวน</title>
+<desc id="desc">ภาพประกอบสมมติ ผู้สัมภาษณ์ถือกระดานจดคุยกับผู้ชมที่ทางออก มีสวนดอกไม้ อาคารจัดแสดง และผู้ชมอีกกลุ่มกำลังเดินออก</desc>
+<rect width="1500" height="600" rx="24" fill="#f1f7f3"/>
+<path d="M0 430Q320 365 650 426T1500 406V600H0Z" fill="#d8e9da"/>
+<path d="M780 600Q740 440 880 325H1020Q932 450 1130 600Z" fill="#f5e5c8"/>
+<g fill="#c6dbce" stroke="#709c7d" stroke-width="5"><path d="M100 322V190L280 95L460 190V322Z"/><path d="M115 190H445M280 100V320M180 155V322M380 155V322" fill="none"/></g>
+<g stroke="#557e66" stroke-width="9" fill="none"><path d="M850 345V135Q1055 15 1260 135V345"/></g>
+<path d="M870 136Q1055 26 1240 136Q1055 235 870 136" fill="#fff" stroke="#146a5b" stroke-width="4"/>
+<text x="1055" y="164" text-anchor="middle" font-family="Arial,sans-serif" font-size="62" font-weight="700" fill="#146a5b">EXIT</text>
+<g fill="#94bd9b"><circle cx="1360" cy="240" r="105"/><circle cx="1450" cy="270" r="90"/></g><path d="M1370 310V440" stroke="#866f4c" stroke-width="24"/>
+<g stroke="#709c7d" stroke-width="5" fill="none"><path d="M90 450V365M150 460V340M210 450V380M270 460V350M330 450V370M390 460V340"/></g>
+<g fill="#dc9a85"><circle cx="90" cy="360" r="23"/><circle cx="210" cy="375" r="22"/><circle cx="330" cy="365" r="24"/></g>
+<g fill="#dfc077"><circle cx="150" cy="335" r="27"/><circle cx="270" cy="345" r="26"/><circle cx="390" cy="335" r="27"/></g>
+<g stroke="#315c50" stroke-width="5" stroke-linejoin="round" stroke-linecap="round">
+<circle cx="570" cy="271" r="42" fill="#d6a17e"/><path d="M528 269Q530 215 573 221Q618 220 612 275L589 247Z" fill="#3c4540"/>
+<path d="M524 346Q570 318 616 346L630 453H512Z" fill="#146a5b"/><path d="M534 454L532 548M605 454L619 548M522 357L490 412M615 357L680 381" fill="none" stroke-width="20"/>
+<path d="M644 346L706 355L695 438L632 429Z" fill="#fff"/><path d="M651 370L690 376M647 390L686 396M645 410L676 414" stroke="#9ab4a9" stroke-width="4"/>
+<circle cx="799" cy="274" r="42" fill="#e3b38d"/><path d="M757 270Q755 218 800 223Q848 222 840 276L815 247Z" fill="#594c40"/>
+<path d="M752 348Q798 320 844 348L859 455H739Z" fill="#bd6a49"/><path d="M758 455L750 548M831 455L845 548M752 361L709 405M843 360L883 419" fill="none" stroke-width="20"/>
+</g>
+<path d="M651 125H807Q827 125 827 145V198Q827 218 807 218H736L710 244V218H651Q631 218 631 198V145Q631 125 651 125Z" fill="#fff" stroke="#146a5b" stroke-width="4"/>
+<g fill="#146a5b"><circle cx="680" cy="173" r="7"/><circle cx="728" cy="173" r="7"/><circle cx="776" cy="173" r="7"/></g>
+<g fill="#527b70"><circle cx="1107" cy="294" r="25"/><path d="M1083 332H1131L1141 413H1073Z"/><path d="M1088 412L1083 470M1126 412L1138 470" stroke="#527b70" stroke-width="14"/></g>
+<g fill="#b39479"><circle cx="1203" cy="310" r="20"/><path d="M1184 342H1222L1230 406H1177Z"/><path d="M1190 405L1184 452M1217 405L1225 452" stroke="#b39479" stroke-width="12"/></g>
+</svg>
