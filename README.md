@@ -12,3 +12,9 @@
 ตัวจับเวลาอยู่ด้านบน กด −15 หรือ +15 วินาทีเพื่อปรับเวลาที่เหลือ ปุ่มตั้งใหม่กลับไปเวลาตั้งต้นที่ระบุเป็นนาที
 
 เปิด `teaching-guide.html` เพื่อดูกำหนดการ แนวทางจัดกิจกรรม และตำแหน่งอ่านในตำรา อ่านบทความต้นฉบับก่อนนำข้อค้นพบหรือมาตรวัดไปใช้ในบริบทใหม่
+
+## เครื่องมือช่วยจัดทำและตรวจทาน
+
+ประยุกต์ Scientific Slides และ Scientific Critical Thinking จาก Scientific Agent Skills (K-Dense) ร่วมกับการตรวจแหล่งอ้างอิงและการแสดงผลจริง ดูรายละเอียดในคู่มือผู้สอน
+
+Kassis, T., Agarwal, V., He, Y., Patel, D., & Brueckner, A. M. (2026). Scientific Agent Skills: A Library of Procedural Knowledge for Research Agents. arXiv. https://doi.org/10.48550/arXiv.2609.00065
