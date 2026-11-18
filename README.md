@@ -1,12 +1,12 @@
 # Qualitative & Mixed Methods in Genetic Counselling
 
-Three-hour Thai teaching deck, following quantitative methods. Conceptual spine: Creswell & Creswell (2018), Research Design, 5th edition, especially chapters 1, 9 and 10. Field-specific methodological and empirical sources are cited separately.
+Research methods for understanding experiences, meanings and processes in genetic counselling, and integrating qualitative and quantitative findings. Key reference: Creswell & Creswell (2018), Research Design, 5th edition. Methodological and empirical articles are linked alongside relevant material.
 
-- 54 core slides, 180 minutes including a 10-minute break; appendix and reference slides are optional.
-- Fictional clinic, interview roleplay, coding, joint-display exercise, design studio and peer review.
-- Full reading companion, 28 workbook questions with guidance, and instructor notes.
-- Original explanatory SVG diagrams; fictional dialogue and numbers are clearly marked. Published studies retain design and evidence limitations.
+- Main lesson with optional appendix and references.
+- Interview roleplay, coding, interpretation exercises, research design and peer review.
+- Reading companion, workbook and instructor notes.
+- Classroom dialogue, scenarios and example numbers are fictional. Published studies retain their stated design and limitations.
 
-Open index.html. Arrows/Page Up/Page Down support clickers. F fullscreen; S sorter; O outline; G jump; P presenter; A answer; T timer; ? help. HTML embeds its fonts and diagrams. For all offline companion links, keep the whole folder together.
+Open index.html. Arrows/Page Up/Page Down support clickers. F fullscreen; S sorter; O outline; G jump; P presenter; A answer; T timer; ? help. For offline use, keep the whole folder together so the reading, workbook and guide links remain available.
 
-The supplied textbook PDF and its page images are not included. This is a teaching synthesis and targeted source check, not a systematic review. Some additional readings were retained from the supplied teaching drafts without full-text reappraisal. Answers and presenter pages are teaching aids, not access-controlled information.
+See teaching-guide.html for the lesson schedule, facilitation notes and textbook page references. Read original publications before applying findings or adapting a measure to a new setting.
