@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="600" viewBox="0 0 1500 600" role="img" aria-labelledby="title desc">
+<title id="title">วันหนึ่งที่สวนสัตว์</title><desc id="desc">ภาพสมมติของครอบครัวที่ประตูสวนสัตว์ มีต้นไม้ ยีราฟและช้าง สำหรับฝึกถามประสบการณ์เดียวกันจากหลายมุมมอง</desc>
+<rect width="1500" height="600" rx="24" fill="#f1f7f3"/>
+<path d="M0 440 Q330 360 750 440 T1500 410 V600 H0Z" fill="#d8e9da"/>
+<path d="M600 600 Q670 440 800 380 Q860 450 1060 600" fill="#f4e5c9"/>
+<g fill="#94bd9b"><circle cx="145" cy="200" r="116"/><circle cx="255" cy="220" r="100"/><circle cx="1355" cy="160" r="128"/><circle cx="1250" cy="208" r="110"/></g>
+<g fill="#709c7d"><circle cx="110" cy="240" r="95"/><circle cx="1390" cy="210" r="105"/></g>
+<g stroke="#866f4c" stroke-width="28" stroke-linecap="round"><path d="M160 270 V460 M1330 235 V450"/></g>
+<g stroke="#146a5b" stroke-width="12" fill="none"><path d="M480 470 V190 Q765 32 1050 190 V470"/><path d="M480 190 Q765 340 1050 190"/></g>
+<path d="M510 185 Q765 65 1020 185 Q765 290 510 185" fill="#fff" stroke="#146a5b" stroke-width="5"/>
+<text x="765" y="214" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="90" font-weight="700" fill="#146a5b">ZOO</text>
+<g fill="#e1b864" stroke="#8a6c3e" stroke-width="4"><path d="M1000 416 V230 Q1010 210 1034 225 L1065 245 L1046 268 L1028 258 V420Z"/><ellipse cx="1005" cy="423" rx="57" ry="32"/><path d="M975 438 V492 M1025 440 V492" stroke-width="13"/><path d="M1011 224 L1004 202 M1031 227 L1039 206" stroke-width="6"/></g>
+<g fill="#ad8142"><circle cx="1011" cy="302" r="9"/><circle cx="1018" cy="351" r="9"/><circle cx="986" cy="414" r="11"/><circle cx="1024" cy="433" r="9"/></g><circle cx="1040" cy="241" r="4" fill="#263c35"/>
+<g fill="#9db8b6" stroke="#587e7a" stroke-width="4"><ellipse cx="1190" cy="411" rx="86" ry="63"/><circle cx="1260" cy="388" r="49"/><ellipse cx="1227" cy="391" rx="36" ry="44" fill="#b4cecb"/><path d="M1295 395 Q1335 478 1281 472" fill="none" stroke-width="24" stroke-linecap="round"/><path d="M1151 447 V497 M1216 449 V497" stroke-width="26"/></g><circle cx="1274" cy="375" r="5" fill="#263c35"/>
+<g stroke="#8eaa91" stroke-width="10"><path d="M900 497 H1430 M930 470 V544 M1020 470 V544 M1110 470 V544 M1200 470 V544 M1290 470 V544 M1380 470 V544"/></g>
+<g stroke="#315c50" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><circle cx="325" cy="287" r="40" fill="#eac2a1"/><path d="M284 282 Q295 218 352 251 L365 280" fill="#594c40"/><path d="M286 350 Q325 324 365 350 L382 448 H274Z" fill="#d8a57e"/><path d="M297 447 L292 532 M351 447 L361 532 M282 364 L257 433 M365 364 L413 414" fill="none" stroke-width="19"/><circle cx="432" cy="383" r="29" fill="#eac2a1"/><path d="M401 379 Q405 337 448 352 L461 379" fill="#594c40"/><path d="M405 425 Q433 409 459 425 L466 493 H399Z" fill="#86b7aa"/><path d="M410 492 L406 540 M453 492 L462 540 M408 436 L380 449 M459 435 L486 410" fill="none" stroke-width="13"/></g>
+<path d="M280 90 H420 Q442 90 442 112 V170 Q442 192 420 192 H367 L341 222 V192 H280 Q258 192 258 170 V112 Q258 90 280 90Z" fill="#fff" stroke="#146a5b" stroke-width="4"/>
+<text x="350" y="163" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="65" fill="#146a5b">?</text>
+</svg>
